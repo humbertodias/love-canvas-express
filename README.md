@@ -4,6 +4,8 @@ Note: This repository only contains the game's releases, as I'm not using any VC
 
 Canvas Express is a free as in freedom, minimalist and fast-paced, boxing-themed fighting game. Matches consist of a single 30-second round that probably won't event last as long---three of four well placed punches will send your opponent to the canvas!
 
+![Screenshot of the game](screenshot.png)
+
 ## Running the game and troubleshooting
 
 Download the game from the releases section:
